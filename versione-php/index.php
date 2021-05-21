@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +12,7 @@
 </head>
 <body>
 <?php
-include 'database.php';?>
+include '../database.php';?>
 <header>
     <div class="container">
 <img src="../logo.png" alt="logo">
